@@ -1,5 +1,8 @@
+//jshint esversion:6
+
 const express = require("express");
 const bodyparser = require("body-parser");
+const request = require("request");
 const https = require("https");
 
 
